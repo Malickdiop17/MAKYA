@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Roboto:ital,wght@1,900&family=Rubik+Maps&family=Rubik+Maze&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Fjalla+One&family=Lobster&display=swap');
+
+body{
+    background: url(../images/last\ background.jpg);
+    background-size: 100%;
+    min-height: 0 auto;
+    max-width: 600%;
+    min-width:  0 auto;  
+    overflow-x: hidden;
+
+}
+
+.articles{
+    margin-top: 1cm;
+    font-family:Fjalla One ;
+
+}
+.articles .article{
+    display: flex;
+    margin-bottom: 30px;  
+    font-family:Fjalla One ;
+    text-decoration: none;
+    max-width: 70%;
+    
+
+}
+.articles .article .left img{
+    height: 450px;
+    width: ;
+    border-radius: 15%;
+    margin-left: 5%;
+}
+
+.articles .article .right{
+    margin-left: 8%;
+    color: rgba(62, 108, 127, 0.695);
+    text-align: left;
+    margin-top: cm;
+    max-width: 100%;
+    font-family:Fjalla One ;
+    font-size: 110%;
+}
+
+
+
+        .articles17{
+            margin-top: -4cm;
+            font-family:Fjalla One ;
+            margin-left: 23cm;
+        
+        }
+        .articles17 .article17{
+            display:;
+            margin-bottom: 30px;  
+            font-family:Fjalla One ;
+            text-decoration: none;
+            color: rgb(105, 125, 149);
+            
+        
+        }
+        .articles17 .article17 .left img{
+            height: 450px;
+            width: ;
+            border-radius: 15%;
+            margin-left: 5%;
+        }
+        
+        .articles17 .article17 .right17{
+            margin-left: 10%;
+            color: rgba(62, 108, 127, 0.695);
+            text-align: right;
+            margin-top: 1cm;
+            max-width: 50%;
+            font-family:Fjalla One ;
+        }
+        .ecrit{
+            color: rgb(67, 87, 94);
+            margin-bottom: -15cm;
+            margin-left: -30cm;
+            font-size: 80%;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: -10cm;
+        
+        }
+
+

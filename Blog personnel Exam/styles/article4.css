@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Roboto:ital,wght@1,900&family=Rubik+Maps&family=Rubik+Maze&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Fjalla+One&family=Lobster&display=swap');
+
+body{
+    background: url(../images/last\ background.jpg);
+    background-size: 100%;
+    min-height: 0 auto;
+    max-width: 800%;
+    min-width:  0 auto;  
+    overflow-x: hidden;
+
+}
+.articles2{
+    margin-left: 14cm;
+    margin-top:-35%
+}
+.articles2 .article2{
+    
+}
+.articles2 .article2 .left2 img{
+    border-radius: 15%;
+    height: 8cm;
+}
+
+.articles3{
+    margin-left: -4cm;
+    margin-top: -2cm;
+    
+
+}
+.articles3 .article3{
+    display:;
+    margin-left: 0cm;
+    margin-top: -3.5cm;
+
+}
+
+.articles3 .article3 .left3 img{
+    border-radius: 15%;
+    height: 8cm;
+    margin-left: 4cm;
+    margin-top: 4cm;
+  
+   
+ 
+}
+.articles3 .article3 .right3{
+    display: flex;
+    text-align:;
+    color: #504833;
+    margin-right: 20cm;
+    font-family:Fjalla One ;
+  
+  }
+
+
+
+.articles4{
+    margin-left: cm;
+    margin: top -11cm;
+    
+
+
+}
+.articles4 .article4{
+    margin-top: 1cm;
+    text-align: ;
+    margin-left: cm;
+    display: flex;
+    font-family: fjappa ;
+  
+
+}
+.articles4 .article4 .left4 img{
+    border-radius: 15%;
+    height: 8cm;
+    display: center;
+   
+}
+.articles4 .article4 .right4{
+  display: block;
+  text-align:;
+  color: #504833;
+  margin-right: 20cm;
+  font-family:Fjalla One ;
+
+}
+.c5{
+    color: #ffea00;
+    text-decoration: none;
+    font-family: 
+}
+
+
+.articles5{
+    margin-left: cm;
+    margin-top:5cm;
+    text-decoration: none;
+
+}
+.articles5 .article5{
+    margin-top: -4cm;
+    text-decoration: none;
+    display: flex;
+}
+.articles5 .article5 .left5 img{
+    border-radius: 15%;
+    height: 8cm;
+    text-decoration: none;
+    
+}
+.articles5 .article5 .right5{
+    display: flex;
+    text-align:;
+    color: #504833;
+    margin-right: 20cm;
+    font-family:Fjalla One ;
+  
+  }

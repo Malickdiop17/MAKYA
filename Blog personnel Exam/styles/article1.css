@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Roboto:ital,wght@1,900&family=Rubik+Maps&family=Rubik+Maze&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Fjalla+One&family=Lobster&display=swap');
+
+body{
+    background: url(../images/last\ background.jpg);
+    background-size: 100%;
+    min-height: 0 auto;
+    max-width: 800%;
+    min-width:  0 auto;  
+    overflow-x: hidden;
+    
+
+}
+.articles1{
+    margin-right: cm;
+    margin-top: 1cm;
+    font-family:Fjalla One ;
+    
+  
+  }
+  .articles1 .article1{
+      display: block;
+      text-align: center;
+      color: rgba(98, 97, 80, 0.695);
+     
+     
+  
+  
+  } 
+  .articles1 .article1 .right1 img{
+      border-radius: 15%;
+      position: ;
+      height: 9cm;
+  }
+
+  .articles18{
+    margin-right: 20cm;
+    margin-top: -19.7cm;
+    font-family:Fjalla One ;
+    
+  
+  }
+  .articles18 .article18{
+      display: block;
+      text-align: center;
+      color: rgba(98, 97, 80, 0.695);
+     
+     
+  
+  
+  } 
+  .articles18 .article18 .right18 img{
+      border-radius: 15%;
+      position: ;
+      height: 9cm;
+      width: 8cm;
+  }
+  .articles19{
+    margin-left: 24cm;
+    margin-top: -9cm;
+    font-family:Fjalla One ;
+    
+  
+  }
+  .articles19 .article19{
+      display: block;
+      text-align: center;
+      color: rgba(98, 97, 80, 0.695);
+     
+     
+  
+  
+  } 
+  .articles19 .article19 .right19 img{
+      border-radius: 15%;
+      position: ;
+      height:9cm;
+      width: 8cm;
+  }
